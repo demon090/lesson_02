@@ -1,0 +1,15 @@
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.csproj.AssemblyReference.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.AssemblyInfoInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.AssemblyInfo.cs
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\bin\Debug\net6.0\task_02_lesson_02.exe
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\bin\Debug\net6.0\task_02_lesson_02.deps.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\bin\Debug\net6.0\task_02_lesson_02.runtimeconfig.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\bin\Debug\net6.0\task_02_lesson_02.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\bin\Debug\net6.0\task_02_lesson_02.pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\refint\task_02_lesson_02.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\task_02_lesson_02.genruntimeconfig.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\C#_ED\task_02_lesson_02\obj\Debug\net6.0\ref\task_02_lesson_02.dll
